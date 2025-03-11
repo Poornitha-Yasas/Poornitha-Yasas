@@ -21,13 +21,10 @@
 
 ### 🌎 **Connect with Me:**
 <p align="left">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://poornithayasas.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-%230077B5.svg?style=for-the-badge&logoColor=white&labelColor=black" alt="Portfolio" />
   </a>
 </p>
-
-
----
 
 ### 🛠 **Tech Stack**
 <p align="left">
@@ -37,17 +34,5 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
 </p>
-
----
-
-### 🎯 **Fun Fact**
-> *I have a keen eye for details and enjoy breaking software! 🔥💻*
-
----
-
-### 🎵 **Currently Listening To**
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
-
----
 
 **✨ Let's Connect & Build Together! 🚀**

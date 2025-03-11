@@ -19,39 +19,35 @@
 
 - ⚡ Fun fact **I have a keen eye for details and love breaking software!**
 
-<h3 align="left">Connect with me:</h3>
+### 🌎 **Connect with Me:**
 <p align="left">
-<a href="https://twitter.com/poornithayasas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poornithayasas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/poornitha-yasas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poornitha-yasas" height="30" width="40" /></a>
-<a href="https://fb.com/poornitha.yassas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poornitha.yassas" height="30" width="40" /></a>
-<a href="https://instagram.com/poornitha_yasas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poornitha_yasas" height="30" width="40" /></a>
-<a href="https://www.behance.net/poornithayasas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="poornithayasas" height="30" width="40" /></a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-%230077B5.svg?style=for-the-badge&logoColor=white&labelColor=black" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/apache/jmeter/main/docs/images/jmeter.png" alt="jmeter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+
+---
+
+### 🛠 **Tech Stack**
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-%2343A047.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/JMeter-%23D92B2B.svg?style=for-the-badge&logo=apache&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poornitha-yasas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="poornitha-yasas" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poornitha-yasas&show_icons=true&locale=en&theme=tokyonight" alt="poornitha-yasas" /></p>
+### 🎯 **Fun Fact**
+> *I have a keen eye for details and enjoy breaking software! 🔥💻*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poornitha-yasas&&theme=tokyonight" alt="poornitha-yasas" /></p>
+---
+
+### 🎵 **Currently Listening To**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
+
+---
+
+**✨ Let's Connect & Build Together! 🚀**
